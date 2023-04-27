@@ -1,3 +1,6 @@
+![Screenshot 1](https://github.com/aditi072/Cosedge--Angular-ImageGallery/blob/main/src/assets/Screenshot%20(0).png)
+
+
 # ProjectGallery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
