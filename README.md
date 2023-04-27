@@ -1,5 +1,8 @@
+# Screenshots
 ![Screenshot 1](https://github.com/aditi072/Cosedge--Angular-ImageGallery/blob/main/src/assets/Screenshot%20(0).png)
-
+![Screenshot 2](https://github.com/aditi072/Cosedge--Angular-ImageGallery/blob/main/src/assets/Screenshot%20(1).png)
+![Screenshot 3](https://github.com/aditi072/Cosedge--Angular-ImageGallery/blob/main/src/assets/Screenshot%20(2).png)
+![Screenshot 4](https://github.com/aditi072/Cosedge--Angular-ImageGallery/blob/main/src/assets/Screenshot%20(3).png)
 
 # ProjectGallery
 
